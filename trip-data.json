@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "updated": "2026-11-15",
   "title": "Egyiptom 2027",
   "people": 6,
@@ -321,13 +321,6 @@
       "note": "Belföldi járathoz kétórás reptéri előérkezés ajánlott. A belföldi repülőre nem találtunk igazolt márciusi árat, ezért nincs beleárazva.",
       "checked": "2026-11-15"
     },
-    "car": {
-      "title": "Bérautó: szolgáltatói feltételek",
-      "url": "https://www.sixt.com.eg/shared/t-c/sixt_EG_en.pdf",
-      "type": "Szolgáltató",
-      "note": "A korábbi két bérautós alternatívát nem ajánljuk alapként hat főnek: két autó, kaució, jogosítvány- és parkolási feltételek. A csomagok buszt és helyi sofőrt használnak.",
-      "checked": "2026-11-15"
-    },
     "holidays": {
       "title": "2027. március: ünnepnapok",
       "url": "https://www.kth.bme.hu/document/3216/original/85/00085678.pdf",
@@ -424,27 +417,6 @@
       "url": "https://ahmosetravel.com/luxor-transportation/",
       "type": "Szolgáltató",
       "note": "Microbus: nyugat 87 USD/8 h, kelet 33 USD/azonos nap, állomás 22 USD, Hurghada önmagában 133 USD, látnivalókkal 167 USD. +14%adó, útdíj/tipp külön. C-ben Habu+Hurghada 200 USD bruttó keret, a Habu-megállást írásban kell belefoglalni.",
-      "checked": "2026-11-15"
-    },
-    "enterprise": {
-      "title": "Hétüléses autó: hivatalos járműosztály",
-      "url": "https://www.enterprise.com/en/rental-cars/eg/suvs/standard-suv-sfar.html",
-      "type": "Szolgáltató",
-      "note": "Peugeot 5008 vagy hasonló,7 személy és 4 csomag jelöléssel. Hat főnek nem automatikusan két autó kell. A konkrét csomagtér és jármű nem garantált; dátumos teljes bérleti ajánlat nincs.",
-      "checked": "2026-11-15"
-    },
-    "rentalterms": {
-      "title": "Enterprise Egypt: helyi bérleti feltételek",
-      "url": "https://www.enterprise.com/en/car-rental-locations/eg/cairo-sheikh-zayed-j3e1.html",
-      "type": "Szolgáltató",
-      "note": "Nemzetközi és eredeti jogosítvány, fővezető nevén hitelkártya. StandardSUV 1050 USD kaució, nem költség; további vezető 3,42 USD/nap. Másvárosi leadás és biztosítás teljes ára külön ellenőrizendő.",
-      "checked": "2026-11-15"
-    },
-    "drivingreport": {
-      "title": "Saját vezetés: tényleges körút tapasztalatai",
-      "url": "https://www.reddit.com/r/askegypt/comments/1irgseh/visiting_egypt_and_driving_from_cairo_to_luxor/",
-      "type": "Fórum",
-      "note": "A csoport végigvezetett Kairó–Luxor–Hurghada útvonalon. Kairót nehéznek írták, Luxorban parkolt az autó, ellenőrzőpontok és úton széteső teherautó-rakomány is szerepel. Személyes tapasztalat, nem általános tilalom.",
       "checked": "2026-11-15"
     },
     "cruise": {
@@ -8858,7 +8830,8 @@
       "license": "CC BY-SA 4. 0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "date": "2026-08-28 12:12:33",
-      "bytes": 143689
+      "bytes": 143689,
+      "id": "gem"
     },
     {
       "place": "luxor",
@@ -8872,7 +8845,8 @@
       "license": "CC BY-SA 4. 0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "date": "2017-09-30 20:40:03",
-      "bytes": 151689
+      "bytes": 151689,
+      "id": "luxor"
     },
     {
       "place": "abu",
@@ -8886,7 +8860,8 @@
       "license": "CC BY-SA 2. 0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "date": "",
-      "bytes": 233426
+      "bytes": 233426,
+      "id": "abu"
     },
     {
       "place": "hurghada",
@@ -8900,7 +8875,8 @@
       "license": "CC BY-SA 3. 0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "date": "2009-09-05",
-      "bytes": 201339
+      "bytes": 201339,
+      "id": "hurghada"
     },
     {
       "place": "saqqara",
@@ -8913,7 +8889,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "bytes": 458160,
-      "commonsTitle": "File:Pyramid of Djoser 2010.jpg"
+      "commonsTitle": "File:Pyramid of Djoser 2010.jpg",
+      "id": "saqqara"
     },
     {
       "place": "hatshepsut",
@@ -8926,7 +8903,8 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "bytes": 691885,
-      "commonsTitle": "File:Temple of Hatshepsut, Deir el-Bahari, Luxor, Egypt.jpg"
+      "commonsTitle": "File:Temple of Hatshepsut, Deir el-Bahari, Luxor, Egypt.jpg",
+      "id": "hatshepsut"
     },
     {
       "place": "tutmask",
@@ -8939,7 +8917,8 @@
       "license": "Public domain",
       "licenseUrl": "",
       "bytes": 1362621,
-      "commonsTitle": "File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg"
+      "commonsTitle": "File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+      "id": "tutmask"
     },
     {
       "place": "medinet",
@@ -8952,7 +8931,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "bytes": 1896365,
-      "commonsTitle": "File:Medinet-Temple-Column-Detail4.jpg"
+      "commonsTitle": "File:Medinet-Temple-Column-Detail4.jpg",
+      "id": "medinet"
     },
     {
       "place": "giza",
@@ -8965,7 +8945,8 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "bytes": 671410,
-      "commonsTitle": "File:All Gizah Pyramids.jpg"
+      "commonsTitle": "File:All Gizah Pyramids.jpg",
+      "id": "giza"
     },
     {
       "place": "valley",
@@ -8978,7 +8959,8 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "bytes": 860801,
-      "commonsTitle": "File:Luxor Valley of the Kings R04.jpg"
+      "commonsTitle": "File:Luxor Valley of the Kings R04.jpg",
+      "id": "valley"
     },
     {
       "place": "luxortemple",
@@ -8991,7 +8973,8 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "bytes": 568302,
-      "commonsTitle": "File:Luxor Temple R05.jpg"
+      "commonsTitle": "File:Luxor Temple R05.jpg",
+      "id": "luxortemple"
     },
     {
       "place": "kv9",
@@ -9004,7 +8987,8 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "bytes": 1505292,
-      "commonsTitle": "File:KV9 Tomb of Ramses V-VI DSCF2916.jpg"
+      "commonsTitle": "File:KV9 Tomb of Ramses V-VI DSCF2916.jpg",
+      "id": "kv9"
     },
     {
       "place": "citadel",
@@ -9017,7 +9001,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "bytes": 647411,
-      "commonsTitle": "File:Muhammad Ali Mosque 1.jpg"
+      "commonsTitle": "File:Muhammad Ali Mosque 1.jpg",
+      "id": "citadel"
     },
     {
       "place": "felucca",
@@ -9030,7 +9015,8 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "bytes": 498067,
-      "commonsTitle": "File:Felucca on the Nile.jpg"
+      "commonsTitle": "File:Felucca on the Nile.jpg",
+      "id": "felucca"
     },
     {
       "place": "coptic",
@@ -9043,7 +9029,8 @@
       "license": "CC BY 3.0 pl",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
       "bytes": 561534,
-      "commonsTitle": "File:Hanging Church Cairo.jpg"
+      "commonsTitle": "File:Hanging Church Cairo.jpg",
+      "id": "coptic"
     },
     {
       "place": "bazaar",
@@ -9056,7 +9043,8 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "bytes": 414466,
-      "commonsTitle": "File:Khan el-Khalili.jpg"
+      "commonsTitle": "File:Khan el-Khalili.jpg",
+      "id": "bazaar"
     },
     {
       "place": "nmec",
@@ -9069,7 +9057,397 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "bytes": 425223,
-      "commonsTitle": "File:NMEC-MainEntrance.jpg"
+      "commonsTitle": "File:NMEC-MainEntrance.jpg",
+      "id": "nmec"
+    },
+    {
+      "id": "giza-2",
+      "place": "giza",
+      "title": "Gíza: a Nagy Szfinx",
+      "note": "A Szfinx a gízai fennsíkon.",
+      "file": "./photos/giza-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_(%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg/1920px-Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsTitle": "File:Great Sphinx (أبو الهول).jpg",
+      "originalWidth": 5472,
+      "originalHeight": 3536,
+      "bytes": 549524,
+      "width": 1920,
+      "height": 1241
+    },
+    {
+      "id": "giza-3",
+      "place": "giza",
+      "title": "Gíza: Kheopsz piramisa közelről",
+      "note": "A Nagy Piramis külső látványa, emberi léptékkel.",
+      "file": "./photos/giza-3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg/1920px-Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Douwe C. van der Zee",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsTitle": "File:Great Pyramid of Giza - Pyramid of Khufu.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1125,
+      "bytes": 694784,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "gem-2",
+      "place": "gem",
+      "title": "GEM: II. Ramszesz monumentális szobra",
+      "note": "II. Ramszesz szobra a gízai Grand Egyptian Museumban; 2026-os helyszínfotó.",
+      "file": "./photos/gem-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Ramesses_II_at_the_Grand_Egyptian_Museum.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Statue_of_Ramesses_II_at_the_Grand_Egyptian_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Statue_of_Ramesses_II_at_the_Grand_Egyptian_Museum.jpg/1920px-Statue_of_Ramesses_II_at_the_Grand_Egyptian_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Slyronit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsTitle": "File:Statue of Ramesses II at the Grand Egyptian Museum.jpg",
+      "originalWidth": 4284,
+      "originalHeight": 5712,
+      "bytes": 1915458,
+      "width": 1920,
+      "height": 2560
+    },
+    {
+      "id": "gem-3",
+      "place": "gem",
+      "title": "GEM: a nagy lépcső és szoborgaléria",
+      "note": "A Grand Egyptian Museum nagy lépcsője Gízában, ókori szobrokkal.",
+      "file": "./photos/gem-3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grand_Staircase_(GEM).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Grand_Staircase_%28GEM%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Grand_Staircase_%28GEM%29.jpg/1920px-Grand_Staircase_%28GEM%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Richard Mortel from Riyadh, Saudi Arabia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "commonsTitle": "File:Grand Staircase (GEM).jpg",
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "bytes": 1132578,
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "id": "saqqara-2",
+      "place": "saqqara",
+      "title": "Szakkara: Dzsószer piramisa más nézőpontból",
+      "note": "A lépcsős piramis a szakkarai nekropoliszban.",
+      "file": "./photos/saqqara-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser,_Ancient_Egypt.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Saqqara%2C_Pyramid_of_Djoser%2C_Ancient_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Saqqara%2C_Pyramid_of_Djoser%2C_Ancient_Egypt.jpg/1920px-Saqqara%2C_Pyramid_of_Djoser%2C_Ancient_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "commonsTitle": "File:Saqqara, Pyramid of Djoser, Ancient Egypt.jpg",
+      "originalWidth": 3072,
+      "originalHeight": 2048,
+      "bytes": 593630,
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "citadel-2",
+      "place": "citadel",
+      "title": "Citadella: Muhammad Ali mecsetének belső tere",
+      "note": "A kairói Citadella mecsetének kupolás, díszes belső tere.",
+      "file": "./photos/citadel-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mohammed_Ali_Mosque,_Citadel_interior,_Cairo,_Egypt,_North_Africa.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mohammed_Ali_Mosque%2C_Citadel_interior%2C_Cairo%2C_Egypt%2C_North_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Mohammed_Ali_Mosque%2C_Citadel_interior%2C_Cairo%2C_Egypt%2C_North_Africa.jpg/1920px-Mohammed_Ali_Mosque%2C_Citadel_interior%2C_Cairo%2C_Egypt%2C_North_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Mstyslav Chernov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsTitle": "File:Mohammed Ali Mosque, Citadel interior, Cairo, Egypt, North Africa.jpg",
+      "originalWidth": 4000,
+      "originalHeight": 2660,
+      "bytes": 863672,
+      "width": 1920,
+      "height": 1277
+    },
+    {
+      "id": "coptic-2",
+      "place": "coptic",
+      "title": "Kopt Kairó: a Függő templom belső tere",
+      "note": "A Függő templom belseje Kopt Kairóban.",
+      "file": "./photos/coptic-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Hanging_Church_(Cairo)_-_11.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/By_ovedc_-_Hanging_Church_%28Cairo%29_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/By_ovedc_-_Hanging_Church_%28Cairo%29_-_11.jpg/1920px-By_ovedc_-_Hanging_Church_%28Cairo%29_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Ovedc",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsTitle": "File:By ovedc - Hanging Church (Cairo) - 11.jpg",
+      "originalWidth": 5312,
+      "originalHeight": 2988,
+      "bytes": 598233,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "luxor-2",
+      "place": "luxor",
+      "title": "Karnak: a nagy oszlopcsarnok",
+      "note": "A hatalmas papiruszoszlopok között.",
+      "file": "./photos/luxor-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Columns_at_Hypostyle_hall_of_Karnak_Temple_in_Luxor_Egypt.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Columns_at_Hypostyle_hall_of_Karnak_Temple_in_Luxor_Egypt.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Columns_at_Hypostyle_hall_of_Karnak_Temple_in_Luxor_Egypt.jpg/1920px-Columns_at_Hypostyle_hall_of_Karnak_Temple_in_Luxor_Egypt.jpg",
+      "author": "Tim Adams",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "bytes": 1694477,
+      "commonsTitle": "File:Columns at Hypostyle hall of Karnak Temple in Luxor Egypt.jpg",
+      "width": 1920,
+      "height": 2885
+    },
+    {
+      "id": "luxor-3",
+      "place": "luxor",
+      "title": "Karnak: a szent tó",
+      "note": "A templomegyüttes és a szent tó.",
+      "file": "./photos/luxor-3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_156.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/42/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_156.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_156.jpg/1920px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_156.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "bytes": 588296,
+      "commonsTitle": "File:Templo de Karnak, Luxor, Egipto, 2022-04-03, DD 156.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "valley-2",
+      "place": "valley",
+      "title": "Királyok völgye: panoráma",
+      "note": "A sírokhoz vezető sivatagi völgy; történeti felvétel.",
+      "file": "./photos/valley-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Valley_of_the_Kings_panorama.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Valley_of_the_Kings_panorama.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Valley_of_the_Kings_panorama.jpg/1920px-Valley_of_the_Kings_panorama.jpg",
+      "author": "Nikola Smolenski",
+      "license": "CC BY-SA 3.0 rs",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en",
+      "bytes": 363859,
+      "commonsTitle": "File:Valley of the Kings panorama.jpg",
+      "width": 1920,
+      "height": 470
+    },
+    {
+      "id": "kv9-2",
+      "place": "kv9",
+      "title": "KV9: csillagos mennyezet és festett díszítés",
+      "note": "V–VI. Ramszesz sírjának mennyezete a Királyok völgyében.",
+      "file": "./photos/kv9-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_48.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_48.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_48.jpg/1920px-Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_48.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "bytes": 987026,
+      "commonsTitle": "File:Tumba de Ramsés V y de Ramsés VI, Valle de las Reyes, Luxor, Egipto, 2022-04-03, DD 48.jpg",
+      "width": 1920,
+      "height": 1205
+    },
+    {
+      "id": "hatshepsut-2",
+      "place": "hatshepsut",
+      "title": "Hatsepszut: Ozirisz-oszlopok",
+      "note": "Közeli nézet a templom felső teraszának szobros oszlopsoráról.",
+      "file": "./photos/hatshepsut-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Hatshepsut,_Luxor,_Egypt.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Temple_of_Hatshepsut%2C_Luxor%2C_Egypt.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Temple_of_Hatshepsut%2C_Luxor%2C_Egypt.jpg/1920px-Temple_of_Hatshepsut%2C_Luxor%2C_Egypt.jpg",
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "bytes": 620606,
+      "commonsTitle": "File:Temple of Hatshepsut, Luxor, Egypt.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "luxortemple-2",
+      "place": "luxortemple",
+      "title": "Luxor-templom esti fényben",
+      "note": "A templom kivilágított bejárata naplemente után.",
+      "file": "./photos/luxortemple-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Luxor_Temple_at_night,_Luxor,_Egypt.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Luxor_Temple_at_night%2C_Luxor%2C_Egypt.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Luxor_Temple_at_night%2C_Luxor%2C_Egypt.jpg/1920px-Luxor_Temple_at_night%2C_Luxor%2C_Egypt.jpg",
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "bytes": 687504,
+      "commonsTitle": "File:Luxor Temple at night, Luxor, Egypt.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "medinet-2",
+      "place": "medinet",
+      "title": "Medinet Habu: festett mennyezet",
+      "note": "Az ókori festés részlete III. Ramszesz templomában.",
+      "file": "./photos/medinet-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple_Ceiling.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Medinet_Habu_Temple_Ceiling.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Medinet_Habu_Temple_Ceiling.jpg/1920px-Medinet_Habu_Temple_Ceiling.jpg",
+      "author": "Steven C. Price",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "bytes": 688907,
+      "commonsTitle": "File:Medinet Habu Temple Ceiling.jpg",
+      "width": 1920,
+      "height": 984
+    },
+    {
+      "id": "felucca-2",
+      "place": "felucca",
+      "title": "Felucca a Níluson, Luxornál",
+      "note": "Naplemente a Níluson; szemléltető felvétel, nem a lefoglalt hajó.",
+      "file": "./photos/felucca-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Luxor_Nile_R09.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Luxor_Nile_R09.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Luxor_Nile_R09.jpg/1920px-Luxor_Nile_R09.jpg",
+      "author": "Marc Ryckaert",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "bytes": 262891,
+      "commonsTitle": "File:Luxor Nile R09.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "abu-2",
+      "place": "abu",
+      "title": "Abu Szimbel: a nagytemplom szentélye",
+      "note": "II. Ramszesz nagytemplomának belső szentélye, a négy ülő szoborral.",
+      "file": "./photos/abu-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_26-28_HDR.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_26-28_HDR.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_26-28_HDR.jpg/1920px-Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_26-28_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "bytes": 417812,
+      "width": 1400,
+      "height": 989,
+      "commonsTitle": "File:Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 26-28 HDR.jpg",
+      "date": "2022-04-02 07:19:15",
+      "modifications": "Aránytartó méretezés 1400 pixel szélességre és JPEG-tömörítés; képkivágás vagy tartalmi módosítás nélkül.",
+      "sha256": "32d7f70885c26b857e9d56b6f0aebe425da1d07fa4c2d0224f9816b25726a73d"
+    },
+    {
+      "id": "abu-3",
+      "place": "abu",
+      "title": "Nofertari templomának belső terme",
+      "note": "A kis templom Hathor-fejes oszlopai és domborművei Abu Szimbelben.",
+      "file": "./photos/abu-3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Templo_de_Nefertari,_Abu_Simbel,_Egipto,_2022-04-02,_DD_128-130_HDR.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_128-130_HDR.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_128-130_HDR.jpg/1920px-Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_128-130_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "bytes": 508287,
+      "width": 1400,
+      "height": 1020,
+      "commonsTitle": "File:Templo de Nefertari, Abu Simbel, Egipto, 2022-04-02, DD 128-130 HDR.jpg",
+      "date": "2022-04-02 08:09:46",
+      "modifications": "Aránytartó méretezés 1400 pixel szélességre és JPEG-tömörítés; képkivágás vagy tartalmi módosítás nélkül.",
+      "sha256": "4b32ab1eb85a3fa0b6c63975e9f988f7279a4dab3e5457ce05afec335478dd8a"
+    },
+    {
+      "id": "abu-4",
+      "place": "abu",
+      "title": "Nofertari templomának homlokzata",
+      "note": "A Hathor és Nofertari tiszteletére emelt kis templom sziklahomlokzata.",
+      "file": "./photos/abu-4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Templo_de_Nefertari,_Abu_Simbel,_Egipto,_2022-04-02,_DD_153.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_153.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_153.jpg/1920px-Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "bytes": 478676,
+      "width": 1400,
+      "height": 919,
+      "commonsTitle": "File:Templo de Nefertari, Abu Simbel, Egipto, 2022-04-02, DD 153.jpg",
+      "date": "2022-04-02 08:25:16",
+      "modifications": "Aránytartó méretezés 1400 pixel szélességre és JPEG-tömörítés; képkivágás vagy tartalmi módosítás nélkül.",
+      "sha256": "ade30fbcaca8ac54f0c42bfdf94a2a73b7c9a1ae4cc853457cf3839044a1f179"
+    },
+    {
+      "id": "hurghada-2",
+      "place": "hurghada",
+      "title": "Korallok Hurghada térségében",
+      "note": "Szemléltető víz alatti felvétel a Hurghada környéki Vörös-tengerből.",
+      "file": "./photos/hurghada-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coral_reefs_in_Hurghada.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/67/Coral_reefs_in_Hurghada.JPG",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Coral_reefs_in_Hurghada.JPG/1920px-Coral_reefs_in_Hurghada.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Aymangabalawy",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "bytes": 385279,
+      "width": 1400,
+      "height": 933,
+      "commonsTitle": "File:Coral reefs in Hurghada.JPG",
+      "date": "2013-09-11 17:48:22",
+      "modifications": "Aránytartó méretezés 1400 pixel szélességre és JPEG-tömörítés; képkivágás vagy tartalmi módosítás nélkül.",
+      "sha256": "2e4d43dcbb887603f63066b63aa83e7b811906c129bddc202fd02ffe2de15167"
+    },
+    {
+      "id": "hurghada-3",
+      "place": "hurghada",
+      "title": "Hurghada: pálmák és kikötő",
+      "note": "Hurghadai szállodastrand és kis kikötő. Szemléltető parti kép; nem a kiválasztott szállás vagy strand.",
+      "file": "./photos/hurghada-3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hotel_beach_with_a_small_marina_in_Hurghada.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hotel_beach_with_a_small_marina_in_Hurghada.jpg",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Hotel_beach_with_a_small_marina_in_Hurghada.jpg/1920px-Hotel_beach_with_a_small_marina_in_Hurghada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Dr. Ondřej Havelka (cestovatel)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "bytes": 477015,
+      "width": 1400,
+      "height": 700,
+      "commonsTitle": "File:Hotel beach with a small marina in Hurghada.jpg",
+      "date": "2012-02-13 12:55:03",
+      "modifications": "Aránytartó méretezés 1400 pixel szélességre és JPEG-tömörítés; képkivágás vagy tartalmi módosítás nélkül.",
+      "sha256": "dad7a4f4b683a0728210bfb4964d6db8d1ecac1e91cb9973e62926466cf2f654"
+    },
+    {
+      "id": "hurghada-4",
+      "place": "hurghada",
+      "title": "Hurghada homokos partja",
+      "note": "Reggeli felvétel Hurghada tengerpartjáról. Szemléltető kép; a választott strand külön ellenőrizendő.",
+      "file": "./photos/hurghada-4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hurghada_beach_01.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/Hurghada_beach_01.JPG",
+      "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hurghada_beach_01.JPG/1920px-Hurghada_beach_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Ad Meskens",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "bytes": 173130,
+      "width": 1400,
+      "height": 623,
+      "commonsTitle": "File:Hurghada beach 01.JPG",
+      "date": "2011-08-15",
+      "modifications": "Aránytartó méretezés 1400 pixel szélességre és JPEG-tömörítés; képkivágás vagy tartalmi módosítás nélkül.",
+      "sha256": "b4b30fcdcc090e03f99a3a054e42c8e0b73d2c984b17b7b0ef10161ca494e8b6"
     }
   ],
   "hotels": [
@@ -9142,12 +9520,6 @@
       "status": "B és C alapja",
       "text": "A luxori és déli körökben egyetlen éjszakai ülőbusz szerepel. A buszok 2027-es dátumos készlete még nem igazolt. A tavaszi hurghadai tervekben kizárólag nappali privát kisbusz van.",
       "source": "busnight"
-    },
-    {
-      "name": "Hétüléses bérautó",
-      "status": "Vizsgált, nem beárazott alap",
-      "text": "Hat fő és 2–3 bőrönd bizonyos 7 ülésesekben elférhet. Dátumos teljes bérleti/biztosítási díj nincs. A nappali Cairo–Luxor vezetés teljes programnapot vesz el; kaució, nemzetközi jogosítvány és jóváhagyott útvonal kell.",
-      "source": "enterprise"
     },
     {
       "name": "Nílusi felucca",

@@ -4,6 +4,8 @@
 
 Magyar nyelvű utazástervező kilenc rögzített,2027-es egyiptomi útitervvel. Márciusi,április–májusi és őszi csomagok;költségbontás,fizetési ütemezés,napi program,összehasonlítás,térképek és valódi helyszínfotók. A részletes Excel közvetlenül az oldalról letölthető.
 
+A csomagoldalak sorrendje:helyszínek38valódi fotóval,napi program,szállás,források,költségbontás,fizetési ütemezés. Az összehasonlítás zöld pipái a tartalmazott programokat,a piros vonalak a kihagyott helyszíneket jelzik. A helyi utazás buszokkal és sofőrös transzferekkel készül.
+
 Az árak6felnőttre vetített,10%tartalékot tartalmazó becslések,a2026.november15-i kutatási pillanatkép alapján. Nem megvásárolt vagy garantált utazási csomagok. A pontos szolgáltatói feltételek és ellenőrzési korlátok minden csomagnál szerepelnek.
 
 ## Szerkesztés és ellenőrzés

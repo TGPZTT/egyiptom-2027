@@ -1,0 +1,10 @@
+{
+  "name": "egyiptom-2027",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "verify": "node scripts/validate-site.mjs"
+  }
+}

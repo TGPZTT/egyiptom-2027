@@ -629,5 +629,59 @@
     "date": "2011-08-15",
     "modifications": "Aránytartó méretezés 1400 pixel szélességre és JPEG-tömörítés; képkivágás vagy tartalmi módosítás nélkül.",
     "sha256": "b4b30fcdcc090e03f99a3a054e42c8e0b73d2c984b17b7b0ef10161ca494e8b6"
+  },
+  {
+    "id": "saqqara-ti",
+    "place": "saqqara",
+    "onlyPlans": [
+      "autumn_culture",
+      "autumn_sea",
+      "autumn_abu",
+      "autumn_abu_deluxe"
+    ],
+    "title": "Szakkara: Ti sírjának domborművei",
+    "note": "Szarvasmarhák finoman faragott fejsora és hieroglifák Ti sírjában.",
+    "file": "./photos/saqqara-ti.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomb_of_Ti,_ca._2400_BCE,_5th_dynasty;_Saqqara_(34).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Tomb_of_Ti%2C_ca._2400_BCE%2C_5th_dynasty%3B_Saqqara_%2834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Tomb_of_Ti%2C_ca._2400_BCE%2C_5th_dynasty%3B_Saqqara_%2834%29.jpg/1920px-Tomb_of_Ti%2C_ca._2400_BCE%2C_5th_dynasty%3B_Saqqara_%2834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "Richard Mortel",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "commonsTitle": "File:Tomb of Ti, ca. 2400 BCE, 5th dynasty; Saqqara (34).jpg",
+    "originalWidth": 3996,
+    "originalHeight": 2283,
+    "bytes": 683335,
+    "width": 1920,
+    "height": 1097,
+    "changes": "Wikimedia resized thumbnail; no additional edits.",
+    "visualQA": "Viewed candidate contact sheet and selected full photo; correct tomb relief, sharp enough for gallery use."
+  },
+  {
+    "id": "saqqara-kagemni",
+    "place": "saqqara",
+    "onlyPlans": [
+      "autumn_culture",
+      "autumn_sea",
+      "autumn_abu",
+      "autumn_abu_deluxe"
+    ],
+    "title": "Szakkara: Kagemni festett domborművei",
+    "note": "Festett emberalakok és hieroglifák Kagemni sírjának falán; 2002-es helyszínfotó digitális másolata.",
+    "file": "./photos/saqqara-kagemni.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Saqqara_Mastaba_of_Kagemni_(9794356623).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/Saqqara_Mastaba_of_Kagemni_%289794356623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Saqqara_Mastaba_of_Kagemni_%289794356623%29.jpg/1920px-Saqqara_Mastaba_of_Kagemni_%289794356623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "Gary Todd from Xinzheng, China",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "commonsTitle": "File:Saqqara Mastaba of Kagemni (9794356623).jpg",
+    "originalWidth": 3671,
+    "originalHeight": 2492,
+    "bytes": 582822,
+    "width": 1920,
+    "height": 1303,
+    "changes": "Wikimedia resized thumbnail; no additional edits.",
+    "visualQA": "Viewed candidate contact sheet and selected full photo; correct tomb relief, sharp enough for gallery use."
   }
 ]
